@@ -1,4 +1,3 @@
-// V1 junio 2024
 // Implentado por: Vinicio Changoluisa
 // Diciembre 2023
 
