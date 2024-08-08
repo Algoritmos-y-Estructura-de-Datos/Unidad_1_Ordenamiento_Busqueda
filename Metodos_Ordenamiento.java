@@ -1,6 +1,6 @@
 
 
-// Implentado por: Vinicio Changoluisa
+// Implentado por: Vinicio Changoluisa P.
 // Diciembre 2023
 
 package Ordenamiento;
